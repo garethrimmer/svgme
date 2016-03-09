@@ -32,6 +32,7 @@ Temporary Items
 ### CodeKit ###
 # General CodeKit files to ignore
 config.codekit
+styles/sass/.sass-cache
 /min
 
 
