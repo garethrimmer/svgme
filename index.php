@@ -12,10 +12,10 @@
   <![endif]-->
 </head>
 <body>
-
-<!-- <h1>Hello GitHub</h1> -->
-
-	<img src="img/gsvg.svg">
+	
+	<?php// include("includes/test-02.svg"); ?>
+	
+	<?php include("includes/gsvg.svg"); ?>
 
 <script src="js/min/scripts-min.js"></script>
 </body>
