@@ -14,6 +14,9 @@
 	<meta property="og:description" content="Quick and dirty svg animation experiment" />
 	<!-- /OG Meta-->
 	
+<script src="https://use.typekit.net/ijd4pmj.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+	
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
   <link rel="stylesheet" href="styles/css/styles.css">
@@ -22,8 +25,6 @@
   <![endif]-->
 </head>
 <body>
-	
-	<?php// include("includes/test-02.svg"); ?>
 	
 	<?php include("includes/gsvg.svg"); ?>
 	
