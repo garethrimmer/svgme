@@ -27,7 +27,7 @@
   <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
 </head>
-<body>
+<body ontouchstart>
 	
 	<?php include("includes/gsvg.svg"); ?>
 	
